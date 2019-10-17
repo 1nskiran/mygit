@@ -1,0 +1,1 @@
+https://devapbapi.sandals.com:443/UvlapiApp/Services?wsdl
